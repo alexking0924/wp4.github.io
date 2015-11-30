@@ -1,1 +1,73 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1200px;
+    margin: 0 auto;
+}
 
+h1 {
+    font-size: 40px;
+}
+
+#border {
+    height: 50px;
+    background-color: #b30000;
+}
+
+aside {
+    float: left;
+    width: 400px;
+    height: 630px;
+    background-color: #666666;
+}
+
+article {
+    float: right;
+    width: 800px;
+}
+
+#overview {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#solution1 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#solution2 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#solution3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#importance {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav ul li {
+    list-style-type: none;
+    padding-right: 10px;
+    padding-bottom: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    color: #b30000;
+}
+
+footer {
+    position: relative;
+    clear: both;
+    background-color: #b30000;
+    padding: 10px;
+}
